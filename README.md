@@ -11,3 +11,5 @@ How do you see the contents of what changed within each file from the git log?
 ## Question 3
 What does HEAD refer to in the context of git? (Not to be confused with the "HEAD<<<<" one observes within merge conflict)
 * Within Git, HEAD refers to the currently active commit on the current branch, or where you would be in the cli. 
+
+
